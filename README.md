@@ -1,1 +1,1 @@
-# Pro_Class_173_Order_Rating
+# PRO-C173-Boilerplate
